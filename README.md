@@ -1,5 +1,10 @@
-### Hi there 👋
+Hello, my name is typhoop,
+I am an intermediate level coder with knowledge in html, css, js, and lua
+Some other names I use are typhrev and typhoon
 
+📫 How to reach me: 
+Email- typhrev@gmail.com, eoverly@typhrev.dev
+Discord- typhoon#5157
 <!--
 **Typhoop/typhoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
